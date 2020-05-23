@@ -1,7 +1,7 @@
 Enkicl Django rest framework<br>
 ====
 DjangoRestFramework<br>
-本项目是个人为学习用而做的一个磁力搜索网站<br>
+本项目是个人为学习用而做的一个磁力搜索网站，项目还未完善<br>
 使用python基于django rest framework框架搭建的restful API网站<br>
 
 
